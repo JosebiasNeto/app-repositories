@@ -8,7 +8,8 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/AndroidNews",
       "description": null,
@@ -27,7 +28,8 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/AndroidThreads",
       "description": null,
@@ -45,32 +47,14 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/ApplicationContentProvider",
       "description": null,
       "fork": false,
       "url": "https://api.github.com/repos/JosebiasNeto/ApplicationContentProvider",
       "size": 154,
-      "stargazers_count": 0,
-      "watchers_count": 0,
-      "language": "Kotlin"
-    },
-    {
-      "id": 389229772,
-      "node_id": "MDEwOlJlcG9zaXRvcnkzODkyMjk3NzI=",
-      "name": "ApplicationContentProviderClient",
-      "full_name": "JosebiasNeto/ApplicationContentProviderClient",
-      "private": false,
-      "owner": {
-        "login": "JosebiasNeto",
-        "id": 79516718
-      },
-      "html_url": "https://github.com/JosebiasNeto/ApplicationContentProviderClient",
-      "description": null,
-      "fork": false,
-      "url": "https://api.github.com/repos/JosebiasNeto/ApplicationContentProviderClient",
-      "size": 137,
       "stargazers_count": 0,
       "watchers_count": 0,
       "language": "Kotlin"
@@ -83,7 +67,8 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/ApplicationWorkApi",
       "description": null,
@@ -103,7 +88,8 @@
       "owner": {
         "login": "JosebiasNeto",
         "id": 79516718,
-        "node_id": "MDQ6VXNlcjc5NTE2NzE4"
+        "node_id": "MDQ6VXNlcjc5NTE2NzE4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/AppRepositories",
       "description": null,
@@ -122,7 +108,8 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/AppSantander",
       "description": null,
@@ -141,7 +128,8 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/BusinessCard",
       "description": null,
@@ -160,7 +148,8 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/CalculadoraDeIMC",
       "description": null,
@@ -202,7 +191,8 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/InstaTagg",
       "description": null,
@@ -221,7 +211,8 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/LojaVirtual",
       "description": "Criação de simulador de loja virtual",
@@ -240,7 +231,8 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/NetflixClone",
       "description": "Criação de simulador da plataforma Netflix",
@@ -259,7 +251,8 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/SpotifyClone",
       "description": null,
@@ -278,7 +271,8 @@
       "private": false,
       "owner": {
         "login": "JosebiasNeto",
-        "id": 79516718
+        "id": 79516718,
+        "avatar_url": "https://avatars.githubusercontent.com/u/79516718?v=4"
       },
       "html_url": "https://github.com/JosebiasNeto/Todolist",
       "description": null,
